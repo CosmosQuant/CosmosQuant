@@ -1,7 +1,11 @@
-## Hi there 👋
+# cosmosquant
 
-<!--
-**CosmosQuant/CosmosQuant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lightweight engine for **unified backtesting & IB live trading** in Python.
+- Minimal onBar/onTick loop
+- Shared Strategy API (backtest/live)
+- ABC/Base for brokers (Sim, IB skeleton)
+- Parquet datasets for backtests
+- Clean tests, ready for teaching
 
 Here are some ideas to get you started:
 
